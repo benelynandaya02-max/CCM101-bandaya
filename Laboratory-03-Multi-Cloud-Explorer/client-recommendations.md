@@ -43,3 +43,14 @@ Services:
 - Amazon EC2 Auto Scaling
 - Amazon CloudFront
 - Amazon RDS
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Flexible services and scalable infrastructure |
+| Enterprise Organization | Azure | Strong enterprise and hybrid cloud support |
+| Microsoft Environment | Azure | Strong integration with Microsoft technologies |
+| AI / Machine Learning | GCP | Strong AI and data analytics services |
+| Kubernetes Deployment | GCP | Strong Kubernetes ecosystem |
+| Global Web Application | AWS | Global infrastructure and automatic scaling |
