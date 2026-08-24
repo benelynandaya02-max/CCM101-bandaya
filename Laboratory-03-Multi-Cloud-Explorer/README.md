@@ -85,3 +85,7 @@ I also improved my skills in using Markdown for technical documentation and orga
 This laboratory activity helped me understand that choosing a cloud platform depends on the specific needs of an organization. AWS, Microsoft Azure, and GCP all provide important services for computing, storage, networking, and other cloud requirements, but each platform has its own strengths.
 
 By comparing the three cloud platforms and analyzing different client scenarios, I learned how a Cloud Solutions Consultant can recommend technology based on business requirements, existing systems, budget, scalability, and future goals.
+
+## Laboratory Activity 3 Status
+
+Laboratory Activity 3: Multi-Cloud Explorer has been successfully completed.
