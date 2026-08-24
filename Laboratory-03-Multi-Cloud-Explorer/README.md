@@ -60,6 +60,19 @@ lsb_release -a
 lscpu
 free -h
 df -h
+```
+
+These commands helped me understand the system information and available resources of the Linux server.
+
+### Possible Cloud Hosting Services
+
+If this Linux server were migrated to the cloud, it could be hosted using the following services:
+
+- **AWS:** Amazon EC2
+- **Microsoft Azure:** Azure Virtual Machines
+- **Google Cloud Platform:** Compute Engine
+
+These cloud services provide virtual machines that can run Linux operating systems.
 
 ## Skills Learned
 
