@@ -15,22 +15,22 @@ This laboratory activity focuses on understanding the difference between Virtual
 
 ## Docker Commands Executed
 
-## Checkpoint 3 - Enter the Docker Playground
+### Checkpoint 3 - Enter the Docker Playground
 
 I used the following commands to verify the Docker was installed and running:
 
 ```bash
 docker --version
 docker info
-
-## **Checkpoint 4 - Pull and Run Nginx**
+```
+## Checkpoint 4 - Pull and Run Nginx
 
 I pulled the Nginx image from Docker Hub and ran it as a container:
 
 docker pull nginx
 docker run -d --name nginx-server -p 8080:80 nginx
 
-## **Checkpoint 5 - Test and Manage the Container**
+## Checkpoint 5 - Test and Manage the Container
 
 I used the following commands to check and test the running Nginx container:
 
@@ -44,15 +44,15 @@ docker stop nginx-server
 docker ps
 docker rm nginx-server
 
-## **Skills Learned**
+## Skills Learned
 
 I learned how to compare Virtual Machines and Containers and use basic Docker commands. I also learned how to run an Nginx container, map ports, test a web server, and manage Docker containers.
 
-## **Challenges Encountered**
+## Challenges Encountered
 
 I had difficulty understanding Docker commands, port mapping, and container management. I also encountered a Git author identity error, which I solved by configuring my Git username and email.
 
-## ** Conclusion**
+## Conclusion
 
 This activity helped me understand containers, Docker, and how they differ from Virtual Machines. It also improved my skills in Docker, cloud computing, Markdown, and GitHub.
 
