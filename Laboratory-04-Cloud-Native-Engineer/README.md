@@ -25,7 +25,7 @@ docker info
 ```
 ## Checkpoint 4 - Pull and Run Nginx
 
-I pulled the Nginx image from Docker Hub and ran it as a container:
+I pulled the Nginx image from Docker Hub and launched it as a container:
 
 docker pull nginx
 docker run -d --name nginx-server -p 8080:80 nginx
