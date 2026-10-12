@@ -6,17 +6,17 @@ This mission focused on securing a Linux server using the Uncomplicated Firewall
 
 ## Objectives
 
-Understand the Principle of Least Privilege and attack surface.
+- Understand the Principle of Least Privilege and attack surface.
 
-Audit a running web application on a Linux server.
+- Audit a running web application on a Linux server.
 
-Configure UFW with a Default Deny policy.
+- Configure UFW with a Default Deny policy.
 
-Allow SSH and port 8080.
+- Allow SSH and port 8080.
 
-Document firewall commands and security practices.
+- Document firewall commands and security practices.
 
-Add evidence to my GitHub Cloud Computing portfolio.
+- Add evidence to my GitHub Cloud Computing portfolio.
 
 ## Commands Executed
 
