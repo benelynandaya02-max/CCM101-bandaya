@@ -2,7 +2,7 @@
 
 ## My Cloud Computing Journey from Mission 1 to Mission 10
 
-Throughout the CCM101 Cloud Computing laboratory activities, I learned that cloud computing involves more than storing files online. It also includes managing serves, configuring infrastructure, deploying applications, protecting data, and automating tasks. Each laboratory helped me understand different responsibilities in managing a cloud environment.
+Throughout the CCM101 Cloud Computing Laboratory activities, I learned that cloud computing involves more than storing files online. It also includes managing serves, configuring infrastructure, deploying applications, protecting data, and automating tasks. Each laboratory helped me understand different responsibilities in managing a cloud environment.
 
 In the earlier missions, I learned basic Linux commands and explored cloud infrastructure and cloud service providers. As continued, I gained knowledge about cloud-native technologies, storage, container deployment, system operations, and security. In Mission 9, I learned how Bash scripts and cron jobs can automate repetitive tasks such as creating backups. These activities helped me understand why automation and proper system configuration are important in cloud computing.
 
